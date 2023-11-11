@@ -43,7 +43,7 @@
 
 ## Heap
 1. [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries)  
-    Key observation is that when multiple rooms are available, the room with smallest index should be picked so good candidate for a min heap. And when there is no room available, a meeting should be delayed until another meeting finishes, so good idea to use another mean heap.  
+    Key observation is that when multiple rooms are available, the room with smallest index should be picked so good candidate for a min heap. And when there is no room available, a meeting should be delayed until a room is available, i.e. the meeting in that room finishes, and the room that has meeting that finishes first should be picked. so good idea to use another mean heap.  
     1. The idea is to sort meetings based on start time and end time, then do a linear scan of the meetings. 
     1. For a start time, release all the meetings that have finished, i.e. finish time <= start time. Then if there are free meeting rooms, pick the room with the smallest index, and push to the heap of ending time and room index
     1. Else means no room is free, so the meeting need to be delayed. Pick a meeting that finishes earlist to get the new start time and free room. Push the expected end time and room to the heap.
