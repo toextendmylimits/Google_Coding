@@ -71,3 +71,6 @@
         return result.index(max(result))
       ```
     </details>
+
+  ## Hashmap
+1. [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)
