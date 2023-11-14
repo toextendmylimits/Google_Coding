@@ -133,6 +133,7 @@
 1. [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
 1. [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)  
 1. [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)
+    Should return True in the end  
 1. [100. Same Tree](https://leetcode.com/problems/same-tree)
 1. [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 1. [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)
