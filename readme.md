@@ -70,7 +70,27 @@
         return result
       ```
     </details>
-    
+
+1. [366. Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree)
+  The intuition is that the result is the list of nodes with same height. So use a hash map to store the list of nodes for different height. The tree's height can be calculated recursively. In each recursion call, add a node to the list of nodes which have same height.  
+
+    <details>
+  
+      ```python
+    def findLeaves(self, root: Optional[TreeNode]) -> List[List[int]]:
+        heightNodesMap = defaultdict(list)
+
+        def getHeight(root):
+            if not root:
+                return 0
+            
+            currHeight = max(getHeight(root.left), getHeight(root.right)) + 1
+            heightNodesMap[currHeight].append(root.val)
+            return currHeight
+        
+        return [heightNodesMap[height] for height in range(1, getHeight(root) + 1)]
+      ```
+    </details>
 ## Heap
 1. [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries)  
     Key observation is that when multiple rooms are available, the room with smallest index should be picked so good candidate for a min heap. And when there is no room available, a meeting should be delayed until a room is available, i.e. the meeting in that room finishes, and the room that has meeting that finishes first should be picked. so good idea to use another mean heap.  
