@@ -71,7 +71,7 @@
       ```
     </details>
 
-1. [366. Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree)
+1. [366. Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree)  
   The intuition is that the result is the list of nodes with same height. So use a hash map to store the list of nodes for different height. The tree's height can be calculated recursively. In each recursion call, add a node to the list of nodes which have same height.  
 
     <details>
