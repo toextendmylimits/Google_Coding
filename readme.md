@@ -158,7 +158,9 @@
         return result.index(max(result))
       ```
     </details>
-
+    
+1. [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)
+   
   ## Hashmap
 1. [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)
 
