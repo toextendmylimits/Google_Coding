@@ -40,7 +40,37 @@
           return result
       ```
     </details>
+1. [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-fores)  
+  Key observation is that if a node's parent is deleted, and the node is not deleted, then it would be part of the result. If a node is part of the result, then we also need to know its children as well.
 
+  So the idea is to have a recursive function, which has two parameters, one is the node to be processed, the other is whether the node's parent is deleted, and the return value is the node after remving nodes that should be deleted. In each recursion call,
+  1. If node is null, return null simply
+  1. If node should be deleted but its parent is not deleted, add it to result
+  1. Let node's child know whether the node is deleted, and remove relevant nodes from its child 
+  1. If node is deleted return Null otherwise return the nodde
+
+    <details>
+  
+      ```python
+   def delNodes(self, root: Optional[TreeNode], to_delete: List[int]) -> List[TreeNode]:
+        nodes_to_delete = set(to_delete)
+        result = []
+        def dfs(root, is_parent_deleted):
+            if not root:
+                return root
+            
+            is_deleted = root.val in nodes_to_delete
+            if is_parent_deleted and not is_deleted:
+                result.append(root)
+            
+            root.left = dfs(root.left, is_deleted)
+            root.right = dfs(root.right, is_deleted)
+            return None if is_deleted else root
+        dfs(root, True)
+        return result
+      ```
+    </details>
+    
 ## Heap
 1. [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries)  
     Key observation is that when multiple rooms are available, the room with smallest index should be picked so good candidate for a min heap. And when there is no room available, a meeting should be delayed until a room is available, i.e. the meeting in that room finishes, and the room that has meeting that finishes first should be picked. so good idea to use another mean heap.  
