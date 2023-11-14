@@ -91,6 +91,40 @@
         return [heightNodesMap[height] for height in range(1, getHeight(root) + 1)]
       ```
     </details>
+
+1. [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree)
+  The idea is to calucate a tree's nodes count and sum recursively.   
+  1. If root is null, the both the nodes count and sum is 0  
+  1. Otherwise get nodes count and sum for left subtree and right subtree respectively  
+  1. Then the nodes count is the total nodes count of both subtrees plus 1  
+  1. The sum is the sum of both subtrees plus root value  
+  1. If root val equals to average subtree value, then update global variable result  
+  1. In the end return nodes count and sum of current tree  
+
+    <details>
+  
+      ```python
+   def averageOfSubtree(self, root: Optional[TreeNode]) -> int:
+        result = 0
+        def getNodesCountAndSum(root):
+            nonlocal result
+            if not root:
+                return (0, 0)
+            
+            leftCount, leftSum = getNodesCountAndSum(root.left)
+            rightCount, rightSum = getNodesCountAndSum(root.right)
+            currCount = leftCount + rightCount + 1
+            currSum = leftSum + rightSum + root.val
+
+            if root.val == currSum // currCount:
+                result += 1
+            return (currCount, currSum)
+        
+        getNodesCountAndSum(root)
+        return result
+      ```
+    </details>
+    
 ## Heap
 1. [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii)  
     Key observation is that when multiple rooms are available, the room with smallest index should be picked so good candidate for a min heap. And when there is no room available, a meeting should be delayed until a room is available, i.e. the meeting in that room finishes, and the room that has meeting that finishes first should be picked. so good idea to use another mean heap.  
