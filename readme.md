@@ -127,9 +127,21 @@
         return result
       ```
     </details>
-
+1. [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)
 1. [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)
-       
+1. [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
+1. [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)  
+1. [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)
+1. [100. Same Tree](https://leetcode.com/problems/same-tree)
+1. [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
+1. [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)
+1. [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)
+1. [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)
+1. [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)
+
+## To revisit later
+1. [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree)
+1. [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras)      
 ## Heap
 1. [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii)  
     Key observation is that when multiple rooms are available, the room with smallest index should be picked so good candidate for a min heap. And when there is no room available, a meeting should be delayed until a room is available, i.e. the meeting in that room finishes, and the room that has meeting that finishes first should be picked. so good idea to use another mean heap.  
@@ -160,9 +172,9 @@
         return result.index(max(result))
       ```
     </details>
-    
+
    
-  ## Hashmap
+## Hashmap
 1. [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)
 
 ## Time intervals
