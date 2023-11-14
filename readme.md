@@ -93,13 +93,13 @@
     </details>
 
 1. [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree)
-  The idea is to calucate a tree's nodes count and sum recursively.   
-  1. If root is null, the both the nodes count and sum is 0  
-  1. Otherwise get nodes count and sum for left subtree and right subtree respectively  
-  1. Then the nodes count is the total nodes count of both subtrees plus 1  
-  1. The sum is the sum of both subtrees plus root value  
-  1. If root val equals to average subtree value, then update global variable result  
-  1. In the end return nodes count and sum of current tree  
+    The idea is to calucate a tree's nodes count and sum recursively.   
+    1. If root is null, the both the nodes count and sum is 0  
+    1. Otherwise get nodes count and sum for left subtree and right subtree respectively  
+    1. Then the nodes count is the total nodes count of both subtrees plus 1  
+    1. The sum is the sum of both subtrees plus root value  
+    1. If root val equals to average subtree value, then update global variable result  
+    1. In the end return nodes count and sum of current tree  
 
     <details>
   
