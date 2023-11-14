@@ -41,9 +41,9 @@
       ```
     </details>
 1. [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-fores)  
-  Key observation is that if a node's parent is deleted, and the node is not deleted, then it would be part of the result. If a node is part of the result, then we also need to know its children as well.
+   Key observation is that if a node's parent is deleted, and the node is not deleted, then it would be part of the result. If a node is part of the result, then we also need to know its children as well.
 
-  So the idea is to have a recursive function, which has two parameters, one is the node to be processed, the other is whether the node's parent is deleted, and the return value is the node after remving nodes that should be deleted. In each recursion call,
+   So the idea is to have a recursive function, which has two parameters, one is the node to be processed, the other is whether the node's parent is deleted, and the return value is the node after remving nodes that should be deleted. In each recursion call,
   1. If node is null, return null simply
   1. If node should be deleted but its parent is not deleted, add it to result
   1. Let node's child know whether the node is deleted, and remove relevant nodes from its child 
