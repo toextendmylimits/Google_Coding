@@ -1,5 +1,8 @@
 # A list of high frequency algorithm questions for Google interveiws in 2003
 ## Tree
+1. [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)  
+    Should practice BFS as well apart from DFS.
+   
 1. [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries)  
   The idea is for a node, the max depth without that code is either from left or right subtree. So have two hash maps, key is node val, one hash map is to store the max depth without a code when performing preorder traversal from left, the other is for max depth without the node when performing preorder traversal from right. When doing preorder traversal from left, assign the max depth to the node, and then if current depth is larger than max depth, then update max depth. Then traverse left subtreee and right subtree.
 
