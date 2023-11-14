@@ -92,7 +92,7 @@
       ```
     </details>
 
-1. [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree)
+1. [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree)  
     The idea is to calucate a tree's nodes count and sum recursively.   
     1. If root is null, the both the nodes count and sum is 0  
     1. Otherwise get nodes count and sum for left subtree and right subtree respectively  
