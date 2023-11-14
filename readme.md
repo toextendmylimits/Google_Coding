@@ -127,7 +127,9 @@
         return result
       ```
     </details>
-    
+
+1. [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)
+       
 ## Heap
 1. [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii)  
     Key observation is that when multiple rooms are available, the room with smallest index should be picked so good candidate for a min heap. And when there is no room available, a meeting should be delayed until a room is available, i.e. the meeting in that room finishes, and the room that has meeting that finishes first should be picked. so good idea to use another mean heap.  
@@ -159,7 +161,6 @@
       ```
     </details>
     
-1. [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)
    
   ## Hashmap
 1. [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)
