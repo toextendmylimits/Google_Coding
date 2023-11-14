@@ -74,3 +74,32 @@
 
   ## Hashmap
 1. [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)
+
+## Time intervals
+1. [759. Employee Free Time](https://leetcode.com/problems/employee-free-time)  
+  Merge intervals first and then check non-overlapping intervals  
+
+    <details>
+  
+      ```python
+    def employeeFreeTime(self, schedule: '[[Interval]]') -> '[Interval]':
+        merged = []
+        allIntervals = []
+        for employeeSchedule in schedule:
+            for interval in employeeSchedule:
+                allIntervals.append(interval)
+
+        sortedSchedule = sorted(allIntervals, key = lambda interval : (interval.start, interval.end))
+        for interval in sortedSchedule:
+            if not merged or interval.start > merged[-1].end:
+                merged.append(interval)
+            else:
+                merged[-1].end = max(merged[-1].end, interval.end)
+        
+        result = []
+        for i in range(1, len(merged)):
+            result.append(Interval(merged[i - 1].end, merged[i].start))
+        
+        return result
+      ```
+    </details>
