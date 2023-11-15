@@ -44,3 +44,5 @@
     </details>
 1. [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
 1. [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)  
+1. [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) 
+    Not that difficult, should think again
