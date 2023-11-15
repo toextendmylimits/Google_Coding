@@ -140,6 +140,48 @@
 1. [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)  
     Serizalize tree and store it in hash table  
 1. [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)
+    Approach 1 is to first get all node values using inorder traversal, then create a new Linked List.     
+   
+    Approach 2 is when doing inorder traversal, connect nodes as well. Set left to null, connect current node to root, then advance current.   
+
+    <details>
+  
+      ```python
+      # Approach 1
+    def increasingBST(self, root: TreeNode) -> TreeNode:
+        result = []
+        def inorder(root):
+            if not root:
+                return
+            inorder(root.left)
+            result.append(root.val)
+            inorder(root.right)
+        
+        inorder(root)
+        curr = dummyHead = TreeNode()
+        for n in result:
+            curr.right = TreeNode(n)
+            curr = curr.right
+        
+        return dummyHead.right
+
+      # Approach 2
+    def increasingBST(self, root: TreeNode) -> TreeNode:
+        curr = dummyHead = TreeNode()
+        def inorder(root):
+            nonlocal curr
+            if not root:
+                return
+            inorder(root.left)
+            root.left = None
+            curr.right = root
+            curr = curr.right
+            inorder(root.right)
+        
+        inorder(root)     
+        return dummyHead.right
+      ```
+    </details>   
 1. [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)
 
 ## To revisit later
