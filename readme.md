@@ -139,7 +139,7 @@
 1. [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)
 1. [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)  
     Serizalize tree and store it in hash table  
-1. [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)
+1. [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)  
     Approach 1 is to first get all node values using inorder traversal, then create a new Linked List.     
    
     Approach 2 is when doing inorder traversal, connect nodes as well. Set left to null, connect current node to root, then advance current.   
