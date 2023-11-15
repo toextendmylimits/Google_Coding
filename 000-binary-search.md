@@ -1,6 +1,6 @@
 # Binary Search
 1. [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)  
-    If the target is not in the array, then in the end left > right, and arr[right] < target < arr[left] so return left.
+    If the target is not in the array, then in the end left > right, and arr[right] < target < arr[left] so return left. Better use an example like (3, 7) to check how 2, 4, 9 works.  
     <details>
 
     ```python
