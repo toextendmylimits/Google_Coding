@@ -137,7 +137,8 @@
 1. [100. Same Tree](https://leetcode.com/problems/same-tree)
 1. [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 1. [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)
-1. [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)
+1. [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)  
+    Serizalize tree and store it in hash table  
 1. [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)
 1. [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)
 
