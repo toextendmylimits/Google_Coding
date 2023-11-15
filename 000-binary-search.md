@@ -1,5 +1,5 @@
 # Binary Search
-1.  35. Search Insert Position](https://leetcode.com/problems/search-insert-position)  
+1.  [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)  
     If the target is not in the array, then in the end left > right, and arr[right] < target < arr[left] so return left.
   <details>
 
