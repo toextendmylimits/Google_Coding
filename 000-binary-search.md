@@ -46,3 +46,5 @@
 1. [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)  
 1. [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) 
     Not that difficult, should think again
+1. [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)  
+    Use the right top element as a pivot as it's larger than elements on same row, but smaller than elements on same column.  So each time a row or column can be eliminated.
