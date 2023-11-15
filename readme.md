@@ -182,9 +182,10 @@
         return dummyHead.right
       ```
     </details>   
-1. [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)
 
 ## To revisit later
+1. [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)  
+    Convert to graph first  
 1. [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree)
 1. [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras)      
 ## Heap
