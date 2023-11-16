@@ -8,3 +8,4 @@
 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | Sliding Window | 16/11/2013 | YES | Need to be 100% clear
 |[992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | Sliding Window | 16/22/2013 | YES | Still difficult. Need to conver to at most k, and in which update result with right - left + 1 meaning subarrays ending at right | 
 |[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | Sliding Window | 16/11/2013 | YES | Beware check matches in while loop |
+|[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Sliding Window | 16/11/2013 | YES | Same as above, need more practice 
