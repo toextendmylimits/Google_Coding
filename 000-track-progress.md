@@ -7,3 +7,4 @@
 |[159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) | Sliding Window | 16/11/2013 | NO | Got it right easily, no need to practice
 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | Sliding Window | 16/11/2013 | YES | Need to be 100% clear
 |[992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | Sliding Window | 16/22/2013 | YES | Still difficult. Need to conver to at most k, and in which update result with right - left + 1 meaning subarrays ending at right | 
+|[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | Sliding Window | 16/11/2013 | YES | Beware check matches in while loop |
