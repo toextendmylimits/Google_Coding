@@ -13,3 +13,4 @@
 |[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Deque/Stack | 16/11/2013 | YES | Very difficult
 |[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Merge Interval | 16/11/2023 | YES | Should be even more familiar
 |[57. Insert Interval](https://leetcode.com/problems/insert-interval/) | Merge Interval  | 16/11/2023 | YES | Git it wrong, practice again
+|[759. Employee Free Time](https://leetcode.com/problems/employee-free-time) | Merge Interval | 16/11/2023 | YES | Feels not very clear
