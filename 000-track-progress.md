@@ -14,7 +14,6 @@
 |[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Merge Interval | 16/11, 17/11| YES | Should be even more familiar
 |[57. Insert Interval](https://leetcode.com/problems/insert-interval/) | Merge Interval  | 16/11, 17/11| YES | Git it wrong, practice again
 |[759. Employee Free Time](https://leetcode.com/problems/employee-free-time) | Merge Interval | 16/11, 17/11| YES | Feels not very clear, and the approach is not optimal
-|[986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections)  | Merge Interval | 17/11 | YES | Not 100% clear, beware to discard interval with smaller 
-ending time after each comparison
+|[986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections)  | Merge Interval | 17/11 | YES | Not 100% clear, beware to discard interval with smaller ending time after each comparison
 |[435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | Merge Interval | 17/11 | YES | Not very clear, Should practice a few more times |
 |[252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms) | Merge Interval | 17/11 | NO | Just have a quick look
