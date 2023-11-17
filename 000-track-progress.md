@@ -17,3 +17,4 @@
 |[986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections)  | Merge Interval | 17/11 | YES | Not 100% clear, beware to discard interval with smaller ending time after each comparison
 |[435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | Merge Interval | 17/11 | YES | Not very clear, Should practice a few more times |
 |[252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms) | Merge Interval | 17/11 | NO | Just have a quick look
+|[452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)  | Merge Interval | 17/11 | YES | Not very clear
