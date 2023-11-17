@@ -19,3 +19,4 @@
 |[252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms) | Merge Interval | 17/11 | NO | Just have a quick look
 |[452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)  | Merge Interval | 17/11 | YES | Not very clear
 |[1094. Car Pooling](https://leetcode.com/problems/car-pooling) | Sweep Line | 17/11 | YES | Need to be more clear
+|[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)| Sweep Line | 17/11 | YES | Should be 100% clear
