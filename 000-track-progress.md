@@ -18,3 +18,4 @@
 |[435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | Merge Interval | 17/11 | YES | Not very clear, Should practice a few more times |
 |[252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms) | Merge Interval | 17/11 | NO | Just have a quick look
 |[452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)  | Merge Interval | 17/11 | YES | Not very clear
+|[1094. Car Pooling](https://leetcode.com/problems/car-pooling) | Sweep Line | 17/11 | YES | Need to be more clear
