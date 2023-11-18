@@ -24,4 +24,5 @@
 |[2437. Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/) | Clock | 17/11 | YES | Not very familiar
 |[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)| Binary Search | 18/11 | YES | Very difficult
 |[1146. Snapshot Array](https://leetcode.com/problems/snapshot-array) | Binary Search | 18/11 | YES | Difficult
+|[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling)  | Greedy | 18/11 | YES | Difficult
 
