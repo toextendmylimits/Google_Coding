@@ -25,4 +25,5 @@
 |[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)| Binary Search | 18/11 | YES | Very difficult
 |[1146. Snapshot Array](https://leetcode.com/problems/snapshot-array) | Binary Search | 18/11 | YES | Difficult
 |[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling)  | Greedy | 18/11 | YES | Difficult
+|[68. Text Justification](https://leetcode.com/problems/text-justification) | String | 19/11 | NO | Difficult
 
