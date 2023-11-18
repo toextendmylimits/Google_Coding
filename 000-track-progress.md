@@ -23,4 +23,5 @@
 |[539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) | Circular algorithm/Clock | 17/11 | YES | Very interesting
 |[2437. Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/) | Clock | 17/11 | YES | Not very familiar
 |[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)| Binary Search | 18/11 | YES | Very difficult
+|[1146. Snapshot Array](https://leetcode.com/problems/snapshot-array) | Binary Search | 18/11 | YES | Difficult
 
