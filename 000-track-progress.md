@@ -27,4 +27,5 @@
 |[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling)  | Greedy | 18/11 | YES | Difficult
 |[68. Text Justification](https://leetcode.com/problems/text-justification) | String | 19/11 | YES | Difficult
 |[1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | Tree DFS/BFS | 19/11 | YES | Difficult
+|[394. Decode String](https://leetcode.com/problems/decode-string) | Stack/Queue | 20/11 | YES | Difficult
 
