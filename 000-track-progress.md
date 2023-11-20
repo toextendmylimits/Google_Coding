@@ -38,3 +38,4 @@
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)  | Two Pointers? | 20/11 | YES | Need be 100% clear
 |[2 Sum less than k](https://leetcode.com/problems/two-sum-less-than-k) | Two Pointers | 20/11 | NO | Relatively clear
 |[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Two Pointers | 20/11 | NO | Very clear
+|[3 sum](https://leetcode.com/problems/3sum) | Two Pointers | 20/11 | YES | Almost forget sort, practice more | 
