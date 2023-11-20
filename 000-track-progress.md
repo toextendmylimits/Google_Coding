@@ -36,3 +36,4 @@
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | Two Pointers | 20/11 | YES | Got it wrong again
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array) | Two Pointers | 20/11 | YES | More practice to be 100% clear
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)  | Two Pointers? | 20/11 | YES | Need be 100% clear
+|[2 Sum less than k](https://leetcode.com/problems/two-sum-less-than-k) | Two Pointers | 20/11 | NO | Relatively clear
