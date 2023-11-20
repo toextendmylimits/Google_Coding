@@ -34,3 +34,4 @@
 |[680 Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | Two Pointers | 20/11 | YES | A bit tricky
 |[2330. Valid Palindrome IV](https://leetcode.com/problems/valid-palindrome-iv) | Two Pointers | 20/11 | NO | Easy
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | Two Pointers | 20/11 | YES | Got it wrong again
+|[189. Rotate Array](https://leetcode.com/problems/rotate-array) | Two Pointers | 20/11 | YES | More practice to be 100% clear
