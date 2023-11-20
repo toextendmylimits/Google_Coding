@@ -29,4 +29,4 @@
 |[1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | Tree DFS/BFS | 19/11 | YES | Difficult
 |[394. Decode String](https://leetcode.com/problems/decode-string) | Stack/Queue | 20/11 | YES | Difficult
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Two Pointers | 20/11 | NO | Very familiar
-
+|[1213. Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays) | Two Pointers | 20/11 | NO | Familiar
