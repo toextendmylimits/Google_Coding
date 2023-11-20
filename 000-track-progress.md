@@ -41,3 +41,4 @@
 |[3 sum](https://leetcode.com/problems/3sum) | Two Pointers | 20/11 | YES | Almost forget sort, practice more | 
 |[3 Sum Smaller](https://leetcode.com/problems/3sum-smaller)| Two Pointers | 20/11 | YES | Beware the number can have duplicates |
 |[3 Sum Closet](https://leetcode.com/problems/3sum-closest)  | Two Pointers | 20/11 | YES | Not very clear |
+|[Sort Colors](https://leetcode.com/problems/sort-colors)  | Two Pointers | 20/11 | YES | Need to memorize the short code |
