@@ -7,6 +7,6 @@
 |[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | 25/11 | YES | Inorder not very intuitive, time complexity logN + k
 |[1740. Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree)| 25/11 | YES | Not 100% clear especially DFS to find distance from root to a node
 [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)| 25/11 | YES | Practice more if there is time
-|[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | 25/11 | YES | Practice more if there is time because not 100% clear
-|[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | 25/11 | YES | Practice more if there is time because not 100% clear
-[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | 25/11 | YES | Practice more if there is time because not 100% clear
+|[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | 26/11 | YES | Practice more if there is time because not 100% clear
+[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | 26/11 | YES | Practice more if there is time because not 100% clear
+|[285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst) | 26/11 | YES | Defitinely need more practice as I completely forgot how to do it
