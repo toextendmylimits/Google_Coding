@@ -28,6 +28,7 @@
 |[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | 25/11 | YES | Practice BFS more
 |[112. Path Sum](https://leetcode.com/problems/path-sum) | 25/11 | YES | Practice BFS more
 |[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | 25/11 | YES | Need even more clear
+|[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | 25/11 | YES | Got wrong in DFS. BFS also work, may practice more
 
 ## Graph DFS/BFS/Topological Sort
 
