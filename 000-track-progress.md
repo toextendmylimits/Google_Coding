@@ -41,7 +41,7 @@
 |[3 sum](https://leetcode.com/problems/3sum) | Two Pointers | 20/11 | YES | Almost forget sort, practice more | 
 |[3 Sum Smaller](https://leetcode.com/problems/3sum-smaller)| Two Pointers | 20/11 | YES | Beware the number can have duplicates |
 |[3 Sum Closet](https://leetcode.com/problems/3sum-closest)  | Two Pointers | 20/11 | YES | Not very clear |
-|[Sort Colors](https://leetcode.com/problems/sort-colors)  | Two Pointers | 20/11 | YES | Need to memorize the short code |
+|[75. Sort Colors](https://leetcode.com/problems/sort-colors)  | Two Pointers | 20/11 | YES | Need to memorize the short code |
 |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Two Pointers | 20/11 | YES | Need to practic more |
 |[67. Add Binary](https://leetcode.com/problems/add-binary)| Two Pointers | 20/11 | YES | Not bug-free, beware to reverse, and use str() to convert digit of array |
 |[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water)  | Two Pointers | NO | Very clear
