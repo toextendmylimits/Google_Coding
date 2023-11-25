@@ -10,3 +10,4 @@
 |[1099 two Sum less than k](https://leetcode.com/problems/two-sum-less-than-k) | 2511 | YES | Clear, can have one more practice if there is time
 |[15. 3 sum](https://leetcode.com/problems/3sum) | 25/11 | YES | Better practice more to be more familiar
 |[259. 3 Sum Smaller](https://leetcode.com/problems/3sum-smaller)| 25/11 | YES | Not 100% clear
+[16. 3 Sum Closet](https://leetcode.com/problems/3sum-closest)  | 25/11 | YES | Not 100% clear, need to save diff = curr_sum - target
