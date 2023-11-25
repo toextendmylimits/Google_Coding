@@ -16,3 +16,15 @@
 |[285. Move Zeroes](https://leetcode.com/problems/move-zeroes)  | 25/11 | YES | Not 100% clear
 |[67. Add Binary](https://leetcode.com/problems/add-binary)| 25/11 | YES | Not bug-free, beware to reverse, and use str() to convert digit of array |
 |[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 25/11 | YES | Better practice more
+
+## Tree DFS/BFS
+
+|Question                 | Dates           | Practice Again | Note          |
+| ----------------------  |  ---------------| -------------  | ------------- | 
+[1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 25/11 | YES | Still need more practice 
+
+## Graph DFS/BFS/Topological Sort
+
+|Question                 | Dates           | Practice Again | Note          |
+| ----------------------  |  ---------------| -------------  | ------------- | 
+[1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 25/11 | YES | Still need more practice 
