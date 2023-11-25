@@ -15,3 +15,4 @@
 |[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | 25/11 | YES | Practice more if there is time
 |[285. Move Zeroes](https://leetcode.com/problems/move-zeroes)  | 25/11 | YES | Not 100% clear
 |[67. Add Binary](https://leetcode.com/problems/add-binary)| 25/11 | YES | Not bug-free, beware to reverse, and use str() to convert digit of array |
+|[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 25/11 | YES | Better practice more
