@@ -21,7 +21,7 @@
 
 |Question                 | Dates           | Practice Again | Note          |
 | ----------------------  |  ---------------| -------------  | ------------- | 
-[1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 25/11 | YES | Still need more practice 
+|[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)  | 25/11 | YES | Although easy but could still get wrong
 
 ## Graph DFS/BFS/Topological Sort
 
