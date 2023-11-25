@@ -39,6 +39,7 @@
 |[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | 25/11 | YES | Not that easy to think of
 |[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | 25/11 | YES | Need to memorize
 [1644. Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii) | 25/11 | YES | Need to memorize
+|[1740. Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree)| 25/11 | YES | Not 100% clear especially DFS to find distance from root to a node
 
 
 ## Graph DFS/BFS/Topological Sort
