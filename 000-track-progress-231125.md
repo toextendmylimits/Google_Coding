@@ -30,6 +30,7 @@
 |[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | 25/11 | YES | Need even more clear
 |[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | 25/11 | YES | Got wrong in DFS. BFS also work, may practice more
 |[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | 25/11 | YES | Easy but may practice more if there is time
+|[109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | 25/11 | YES | Difficult, need to not only code it but more importantly to explain it clearly
 
 ## Graph DFS/BFS/Topological Sort
 
