@@ -23,6 +23,7 @@
 | ----------------------  |  ---------------| -------------  | ------------- | 
 |[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)  | 25/11 | YES | Although easy but could still get wrong
 |[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 25/11 | YES | Should not confuse depth and height, try to code both using DFS and BFS
+|[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | 25/11 | YES | More difficult than above. Should not confuse depth and height, try to code both using DFS and BFS
 
 ## Graph DFS/BFS/Topological Sort
 
