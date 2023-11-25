@@ -36,6 +36,7 @@
 |[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | 25/11 | YES | Inorder not very intuitive, time complexity logN + k
 |[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)  | 25/11 | YES | Calculate height recursively. Practice more
 |[1522. Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree)  | 25/11 | YES | Tricky, need to two largest height in each step
+|[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | 25/11 | YES | Not that easy to think of
 
 
 ## Graph DFS/BFS/Topological Sort
