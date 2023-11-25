@@ -40,6 +40,8 @@
 |[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | 25/11 | YES | Need to memorize
 [1644. Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii) | 25/11 | YES | Need to memorize
 |[1740. Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree)| 25/11 | YES | Not 100% clear especially DFS to find distance from root to a node
+[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)| 25/11 | YES | Practice more if there is time
+
 
 
 ## Graph DFS/BFS/Topological Sort
