@@ -25,6 +25,7 @@
 |[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 25/11 | YES | Should not confuse depth and height, try to code both using DFS and BFS
 |[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | 25/11 | YES | More difficult than above. Should not confuse depth and height, try to code both using DFS and BFS
 |[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)  | 25/11 | YES | Not that simple
+|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | 25/11 | YES | Practice BFS more
 
 ## Graph DFS/BFS/Topological Sort
 
