@@ -50,6 +50,7 @@
 |[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | 26/11 | YES | Better still practice more
 |[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)  | 26/11 | YES | Very clear but can practice more if there is time
 |[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 26/11 | YES | Very clear but can practice more if there is time and should focus on explaining the thought process
+|[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | 26/11 | YES | Clear but can practice more when there is time
 
 
 
