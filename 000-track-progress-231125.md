@@ -47,6 +47,7 @@
 
 # Backtrack
 |[491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences) | 26/11 | YES | Not clear at all, got it wrong again. Need to memorize
+|[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | 26/11 | YES | Better still practice more
 
 
 
