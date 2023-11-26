@@ -45,6 +45,9 @@
 |[314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal) | 26/11 | YES | Can practice more if there is time
 |[987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)| 26/11 | YES | Still difficult. Can practice more if there is time
 
+# Backtrack
+| 26/11 | YES | Not clear at all, Need to memorize
+
 
 
 ## Graph DFS/BFS/Topological Sort
