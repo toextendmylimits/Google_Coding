@@ -12,3 +12,4 @@
 |[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 26/11 | YES | Very clear but can practice more if there is time and should focus on explaining the thought process
 |[113. Path Sum II](https://leetcode.com/problems/path-sum-ii) | 26/11 | YES | Not 100% clear
 |[47. Permutations II](https://leetcode.com/problems/permutations-ii/)| 26/11 | YES | Still difficult
+|[90. Subsets II](https://leetcode.com/problems/subsets-ii)| 26/11 | YES | Memorize how to avoid duplicates
