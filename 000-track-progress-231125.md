@@ -42,6 +42,7 @@
 |[1740. Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree)| 25/11 | YES | Not 100% clear especially DFS to find distance from root to a node
 [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)| 25/11 | YES | Practice more if there is time
 |[114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | 26/11 | YES | Not clear at all
+|[314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal) | 26/11 | YES | Can practice more if there is time
 
 
 
