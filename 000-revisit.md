@@ -10,3 +10,4 @@
 |[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | 26/11 | YES | Practice more if there is time because not 100% clear
 [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | 26/11 | YES | Practice more if there is time because not 100% clear
 |[285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst) | 26/11 | YES | Defitinely need more practice as I completely forgot how to do it
+[16. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)| 26/11 | YES | The approach to use next pointer is difficult
