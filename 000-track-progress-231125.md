@@ -66,3 +66,4 @@
 | ----------------------  |  ---------------| -------------  | ------------- | 
 [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 25/11 | YES | Still need more practice 
 [733. Flood Fill](https://leetcode.com/problems/flood-fill) | 27/11 | YES | Still coded it wrog. Beware DFS/BFS is only triggered for that given cell
+|[200. Number of Islands](https://leetcode.com/problems/number-of-islands)| YES | Made silly mistake of using continue instead of return in DFS
