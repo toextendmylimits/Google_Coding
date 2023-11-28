@@ -45,6 +45,7 @@
 |[314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal) | 26/11 | YES | Can practice more if there is time
 |[987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)| 26/11 | YES | Still difficult. Can practice more if there is time
 |[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | 28/11 | YES | Not clear at all, need to memorize, and explain. 4 cases for max sum that pass a node
+|[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)| 28/11 | YES | Not clear, must memorize
 
 # Backtrack
 |Question                 | Dates           | Practice Again | Note          |
