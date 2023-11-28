@@ -68,4 +68,4 @@
 [733. Flood Fill](https://leetcode.com/problems/flood-fill) | 27/11 | YES | Still coded it wrog. Beware DFS/BFS is only triggered for that given cell
 |[200. Number of Islands](https://leetcode.com/problems/number-of-islands)| YES | Made silly mistake of using continue instead of return in DFS
 |[133. Clone Graph](https://leetcode.com/problems/clone-graph)|YES | Got it wrong, practice again especially BFS
-||[1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands)| 28/11 | YES | Not 100% clear, need to memorize
+|[1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands)| 28/11 | YES | Not 100% clear, need to memorize
