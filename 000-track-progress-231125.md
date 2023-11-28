@@ -69,3 +69,4 @@
 |[200. Number of Islands](https://leetcode.com/problems/number-of-islands)| YES | Made silly mistake of using continue instead of return in DFS
 |[133. Clone Graph](https://leetcode.com/problems/clone-graph)|YES | Got it wrong, practice again especially BFS
 |[1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands)| 28/11 | YES | Not 100% clear, need to memorize
+[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions)  | 28/11 | YES | Not clear, need to memorize
