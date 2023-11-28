@@ -19,3 +19,4 @@
 |[1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands)| 28/11 | YES | Not 100% clear, need to memorize
 [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions)  | 28/11 | YES | Not 100% clear, need to memorize
 |[79. Word Search](https://leetcode.com/problems/word-search)   | 28/11 | YES | Not clear, need to memorize
+|[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates) | 28/11 | YES | Not 100% clear, need to memorize
