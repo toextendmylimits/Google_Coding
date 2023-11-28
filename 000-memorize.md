@@ -20,3 +20,4 @@
 [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions)  | 28/11 | YES | Not 100% clear, need to memorize
 |[79. Word Search](https://leetcode.com/problems/word-search)   | 28/11 | YES | Not clear, need to memorize
 |[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates) | 28/11 | YES | Not 100% clear, need to memorize
+|[752. Open the Lock](https://leetcode.com/problems/open-the-lock)  28/11 | YES | Not 100% clear, need to memorize. Return turns when checking popped element
