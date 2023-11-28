@@ -85,4 +85,5 @@
 |Question                 | Dates           | Practice Again | Note          |
 | ----------------------  |  ---------------| -------------  | ------------- | 
 |[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 29/11 | YES | Not clear, need more practice 
+|[268. Missing Number](https://leetcode.com/problems/missing-number) | 29/11 | YES | Not clear, need more practice and also practice bitwise exclusive OR
 
