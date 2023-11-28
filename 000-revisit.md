@@ -1,4 +1,4 @@
-# These ones are difficult and need revisit
+# These ones are difficult or not important and need revisit
 |Question                 | Dates           | Practice Again | Note          |
 | ----------------------  |  ---------------| -------------  | ------------- | 
 |[109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | 25/11 | YES | Difficult, need to not only code it but more importantly to explain it clearly
@@ -13,3 +13,4 @@
 [16. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)| 26/11 | YES | The approach to use next pointer is difficult
 |[117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)| 26/11 | YES | The approach to use next pointer is difficult
 |[993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree)| 26/11 | YES | 
+|[994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | 28/11 | YES | Got it wrong, need to memorize
