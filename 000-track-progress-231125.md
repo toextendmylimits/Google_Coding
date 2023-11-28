@@ -77,3 +77,4 @@
 |[994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | 28/11 | YES | Got it wrong, need to memorize
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder) | 28/11 | YES | Not 100% clear, need to memorize. Return 0 in the end
 |[1136. Parallel Courses](https://leetcode.com/problems/parallel-courses) | 28/11 | YES | Beware mistake of fogretting to initialize indegree if it's a hash map
+|[329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)| 28/11 | YES | Still got it wrong often
