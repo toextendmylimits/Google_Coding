@@ -87,4 +87,5 @@
 |[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 29/11 | YES | Not clear, need more practice 
 |[268. Missing Number](https://leetcode.com/problems/missing-number) | 29/11 | YES | Not clear, need more practice and also practice bitwise exclusive OR
 |[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| 29/11 | YES | Not clear at all, mention that the first missing one >=1 and <= len(nums) + 1
+|[645. Set Mismatch](https://leetcode.com/problems/set-mismatch) | 29/11 | YES | Not clear, need more practice 
 
