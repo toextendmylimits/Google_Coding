@@ -24,3 +24,4 @@
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder) | 28/11 | YES | Not 100% clear, need to memorize. Return 0 in the end
 |[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | 28/11 | YES | Not clear at all, need to memorize, and explain. 4 cases for max sum that pass a node
 |[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)| 28/11 | YES | Not clear, must memorize
+|[1136. Parallel Courses](https://leetcode.com/problems/parallel-courses) | 28/11 | YES | Beware mistake of fogretting to initialize indegree if it's a hash map
