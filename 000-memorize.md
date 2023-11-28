@@ -17,3 +17,4 @@
 |[39. Combination Sum](https://leetcode.com/problems/combination-sum) )| 26/11 | YES | Not 100% clear, need to memorize
 |[216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii)| 26/11 | YES | Not 100% clear, need to memorize
 |[1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands)| 28/11 | YES | Not 100% clear, need to memorize
+[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions)  | 28/11 | YES | Not 100% clear, need to memorize
