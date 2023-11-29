@@ -53,8 +53,8 @@
 ## Dynamic programming
 |Question                 | Dates           | Practice Again | Note          |
 | ----------------------  |  ---------------| -------------  | ------------- | 
-|[62. Unique Paths](https://leetcode.com/problems/unique-paths)  | 29/11 | YES | More practice if there is time. Never forget self when reference own method
-|[1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)| 29/11 | YES | High-frequency for facebook
+|[62. Unique Paths](https://leetcode.com/problems/unique-paths)  | 29/11 | YES | Look again to be very familiar
+|[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | 29/11 | YES | Look again to be very familiar
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) )| 29/11 | YES | Got it wrong. Set prev first then set curr
 |[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)| 29/11 | YES | Need to be more familiar
 
