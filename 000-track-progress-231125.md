@@ -90,3 +90,14 @@
 |[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | 29/11 | YES | Not clear at all
 |[645. Set Mismatch](https://leetcode.com/problems/set-mismatch) | 29/11 | YES | Not clear, need more practice 
 
+## Heap
+
+|Question                 | Dates           | Practice Again | Note          |
+| ----------------------  |  ---------------| -------------  | ------------- | 
+|[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)) | 29/11 | YES | Very clear, can practice more if there is time
+|[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)  | 29/11 | YES | Very clear, can practice more if there is time
+|[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)| 29/11 | YES | Need to practice quick select at some point
+|[703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | 29/11 | YES |Very clear, can practice more if there is time
+|[1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks)| 29/11 | YES | Don't forget to heapify
+
+
