@@ -27,3 +27,4 @@
 |[1136. Parallel Courses](https://leetcode.com/problems/parallel-courses) | 28/11 | YES | Beware mistake of fogretting to initialize indegree if it's a hash map
 |[153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)| 29/11 | YES | Forgot how to do it. Should compare with last element. Practice again.
 |[1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)| 29/11 | YES | Practice again to be more familiar. Record the total weight that can be shipped on a single day and reset it if an extra day is needed
+|[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)| 29/11 | YES | Very difficult. Need to memorize a few times
