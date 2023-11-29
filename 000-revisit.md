@@ -14,3 +14,4 @@
 |[117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)| 26/11 | YES | The approach to use next pointer is difficult
 |[993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree)| 26/11 | YES | 
 |[994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | 28/11 | YES | Got it wrong, need to memorize
+|[1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | 29/11 | YES | Difficult but not high-frequent, so work on it later
