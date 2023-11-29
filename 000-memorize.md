@@ -55,7 +55,7 @@
 | ----------------------  |  ---------------| -------------  | ------------- | 
 |[62. Unique Paths](https://leetcode.com/problems/unique-paths)  | 29/11 | YES | Look again to be very familiar
 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | 29/11 | YES | Look again to be very familiar
-|[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) )| 29/11 | YES | Got it wrong. Set prev first then set curr
+| [322. Coin Change](https://leetcode.com/problems/coin-change) | 29/11 | YES | Initialize dp[0] = 0 otherwise float("inf"). Need to memorize it
 |[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)| 29/11 | YES | Need to be more familiar
 
 
