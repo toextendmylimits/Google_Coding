@@ -39,5 +39,5 @@
 | ----------------------  |  ---------------| -------------  | ------------- | 
 |[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | 29/11 | YES | Practice again if there is time
 |[523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) | 29/11 | YES | Got it wrong. Practice again.
-|[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)| 29/11 | YES | Very difficult. Need to memorize a few times
+|[528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)| 29/11 | YES | Got it wrong. random_num < prefix_sum[mid]
 |[1146. Snapshot Array](https://leetcode.com/problems/snapshot-array)| 29/11 | YES | Very difficult. Need to memorize a few times
