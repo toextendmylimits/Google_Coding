@@ -41,3 +41,12 @@
 |[523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) | 29/11 | YES | Got it wrong. Practice again.
 |[528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)| 29/11 | YES | Got it wrong. random_num < prefix_sum[mid]
 |[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)| 29/11 | YES | Need to be more familiar
+
+## Linked List
+|Question                 | Dates           | Practice Again | Note          |
+| ----------------------  |  ---------------| -------------  | ------------- | 
+|[146. LRU Cache](https://leetcode.com/problems/lru-cache)  | 29/11 | YES | More practice if there is time. Never forget self when reference own method
+|[523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) | 29/11 | YES | Got it wrong. Practice again.
+|[528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)| 29/11 | YES | Got it wrong. random_num < prefix_sum[mid]
+|[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)| 29/11 | YES | Need to be more familiar
+
