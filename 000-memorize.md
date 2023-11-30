@@ -58,6 +58,8 @@
 | [322. Coin Change](https://leetcode.com/problems/coin-change) | 30/11 | YES | Initialize dp[0] = 0 otherwise float("inf"). Need to memorize it
 |[198. House Robber](https://leetcode.com/problems/house-robber)| 30/11 | YES | Not clear. Practice more
 |[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)| 30/11 | YES | Expend from center or dynamic programming. Need to practice more
+|[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)| 30/11 | YES | Expend from center or dynamic programming. Need to practice more
+
 
 
 
