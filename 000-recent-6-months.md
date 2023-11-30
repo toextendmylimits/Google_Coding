@@ -1,28 +1,35 @@
 # These questions appear in the past 6 months, so could appear again
 ## Graph BFS/DFS
-1. Whether a word can be typed from a keyboard  
+Whether a word can be typed from a keyboard  
   Given a 2D keyboard, and a “maximum jump distance” jump_distance, determine if a given word can be constructed using the characters in the keyboard, obeying the jump_distance. A jump can be up, down, right, or left. But NO diagonal, i.e. a diagonal jump would naturally consume 2 units of jump distance. See my answer in post https://leetcode.com/discuss/interview-question/4236648/Google-Phone-Screen/
 
 An important thing to know is whether the keyboard has duplicate letters. Maybe initially the interviewer says that the keyboard doesn't have duplicate letters but then asks to modify the solution to support keyboard having duplicate letters as a follow-up question. Solutions are provided to both scenarios.
 
-Keyboard doesn't have duplicate letters
+1. Keyboard doesn't have duplicate letters
 The idea is to save each letter's position in the keyboard as a pair of x coordinate and y coordinate in a hash map and then check whether the distance between all the adjacent letters is within the jump distance.
 
- def can_word_be_typed(self, keyboard, word, jump_distance):
-     letter_keyboard_positions_map = {}
-     for r in range(len(keyboard)):
-         for c in range(len(keyboard[0])):
-             letter_keyboard_positions_map[keyboard[r][c]] = (r, c)
+<details>
+
+  ```python
+   def can_word_be_typed(self, keyboard, word, jump_distance):
+       letter_keyboard_positions_map = {}
+       for r in range(len(keyboard)):
+           for c in range(len(keyboard[0])):
+               letter_keyboard_positions_map[keyboard[r][c]] = (r, c)
+       
+       current_position = None
+       for i in range(len(word)):
+           next_position = letter_keyboard_positions_map[word[i]]
+           if current_position and abs(next_position[0] - current_position[0]) + abs(next_position[1] - current_position[1]) > jump_distance:
+               return False
+           current_position = next_position
+       
+       return True
+  ```
+</details>
+
      
-     current_position = None
-     for i in range(len(word)):
-         next_position = letter_keyboard_positions_map[word[i]]
-         if current_position and abs(next_position[0] - current_position[0]) + abs(next_position[1] - current_position[1]) > jump_distance:
-             return False
-         current_position = next_position
-     
-     return True
-Keyboard has duplicate letters
+2. Keyboard has duplicate letters
 This scenario is more complicated and can be solved in approaches of DFS or BFS.
 
 a. Solve the problem recursively, i.e. DFS
