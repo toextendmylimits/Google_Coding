@@ -49,6 +49,7 @@
 |[1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)| 29/11 | YES | High-frequency for facebook
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) )| 29/11 | YES | Got it wrong. Set prev first then set curr
 |[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)| 29/11 | YES | Need to be more familiar
+|[143. Reorder List](https://leetcode.com/problems/reorder-list)| 30/11 | YES | Very difficult. Memorize the code. When reording, check while second_half and second_half.nex
 
 ## Dynamic programming
 |Question                 | Dates           | Practice Again | Note          |
