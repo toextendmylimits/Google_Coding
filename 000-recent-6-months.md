@@ -1,11 +1,11 @@
 # These questions appear in the past 6 months, so could appear again
 ## Graph BFS/DFS
-Whether a word can be typed from a keyboard  
+1. Whether a word can be typed from a keyboard  
   Given a 2D keyboard, and a “maximum jump distance” jump_distance, determine if a given word can be constructed using the characters in the keyboard, obeying the jump_distance. A jump can be up, down, right, or left. But NO diagonal, i.e. a diagonal jump would naturally consume 2 units of jump distance. See my answer in post https://leetcode.com/discuss/interview-question/4236648/Google-Phone-Screen/
 
 An important thing to know is whether the keyboard has duplicate letters. Maybe initially the interviewer says that the keyboard doesn't have duplicate letters but then asks to modify the solution to support keyboard having duplicate letters as a follow-up question. Solutions are provided to both scenarios.
 
-1. Keyboard doesn't have duplicate letters
+  1. Keyboard doesn't have duplicate letters
 The idea is to save each letter's position in the keyboard as a pair of x coordinate and y coordinate in a hash map and then check whether the distance between all the adjacent letters is within the jump distance.
 
 <details>
@@ -29,10 +29,10 @@ The idea is to save each letter's position in the keyboard as a pair of x coordi
 </details>
 
      
-2. Keyboard has duplicate letters
+  2. Keyboard has duplicate letters
 This scenario is more complicated and can be solved in approaches of DFS or BFS.
 
-a. Solve the problem recursively, i.e. DFS
+    a. Solve the problem recursively, i.e. DFS
 Built on the solution for first scenario, we can still save each letter's positions in the keyboard. However, given there are duplicate letters, now we need to save each letter and all its positions as a list in a hash map. We can define a recursive function to check whether a letter in the word can be typed from a keyboard position.
 
 In each recursive call, we need to know index of the next letter in word to type, and the current keyboard position.
@@ -40,6 +40,9 @@ i. If there is no more letter to type, then we know all letters of the word can 
 ii. Otherwise we find a position that is within the jump distance to the current position and then check whether the following letter can be typed from the new position.
 iii. In the end, return False to indicate the letter can't be typed from current keyboard position.
 
+<details>
+  
+  ```python
  def can_word_be_typed(self, keyboard, word, jump_distance):
      letter_keyboard_positions_map = defaultdict(list)
      for r in range(len(keyboard)):
@@ -60,6 +63,9 @@ iii. In the end, return False to indicate the letter can't be typed from current
          return False
      
      return can_letter_be_typed(0, None)
+  ```
+</details>
+
 b. Solve the problem using BFS
 We add the first letter's positions to a queue and record index of the next letter in the word we need to type. Then we do the following things until queue is empty:
 i. If there is no more letter to check, return True
