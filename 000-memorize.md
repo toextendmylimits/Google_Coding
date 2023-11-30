@@ -53,9 +53,11 @@
 ## Dynamic programming
 |Question                 | Dates           | Practice Again | Note          |
 | ----------------------  |  ---------------| -------------  | ------------- | 
-|[62. Unique Paths](https://leetcode.com/problems/unique-paths)  | 29/11 | YES | Look again to be very familiar
-|[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | 29/11 | YES | Look again to be very familiar
-| [322. Coin Change](https://leetcode.com/problems/coin-change) | 29/11 | YES | Initialize dp[0] = 0 otherwise float("inf"). Need to memorize it
-|[198. House Robber](https://leetcode.com/problems/house-robber)| 29/11 | YES | Not clear. Practice more
+|[62. Unique Paths](https://leetcode.com/problems/unique-paths)  | 30/11 | YES | Look again to be very familiar
+|[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | 30/11 | YES | Look again to be very familiar
+| [322. Coin Change](https://leetcode.com/problems/coin-change) | 30/11 | YES | Initialize dp[0] = 0 otherwise float("inf"). Need to memorize it
+|[198. House Robber](https://leetcode.com/problems/house-robber)| 30/11 | YES | Not clear. Practice more
+|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)| 30/11 | YES | Expend from center or dynamic programming. Need to practice more
+
 
 
