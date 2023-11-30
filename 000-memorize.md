@@ -61,6 +61,8 @@
 |[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)| 30/11 | YES | Expend from center or dynamic programming. Need to practice more
 |[516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | 30/11 | YES | Dynamic programming. Need to practice more
 |[1216. Valid Palindrome III](https://leetcode.com/problems/valid-palindrome-iii)| 30/11 | YES | Dynamic programming. Need to practice more
+|[1216. Valid Palindrome III](https://leetcode.com/problems/valid-palindrome-iii)| 30/11 | YES | Dynamic programming. Need to practice more
+[2713. Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix)| 30/11 | YES | Very difficult, need to practice more
 
 
 
