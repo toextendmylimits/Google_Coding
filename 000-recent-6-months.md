@@ -61,37 +61,37 @@ iii. Increase index of the next letter to type by 1
 
 In the end, simply return False.
 
-    <details>
-      
-      ```python
-       def can_word_be_typed(self, keyboard, word, jump_distance):
-           if not word:
-               return True
-      
-           letter_keyboard_positions_map = defaultdict(list)
-           for r in range(len(keyboard)):
-               for c in range(len(keyboard[0])):
-                   letter_keyboard_positions_map[keyboard[r][c]].append((r, c))
+<details>
+  
+  ```python
+   def can_word_be_typed(self, keyboard, word, jump_distance):
+       if not word:
+           return True
+  
+       letter_keyboard_positions_map = defaultdict(list)
+       for r in range(len(keyboard)):
+           for c in range(len(keyboard[0])):
+               letter_keyboard_positions_map[keyboard[r][c]].append((r, c))
+       
+       queue = deque()
+       for position in letter_keyboard_positions_map[word[0]]:
+           queue.append(position)
+  
+       next_letter_idx = 1
+       while queue:
+           if next_letter_idx == len(word):
+               return True 
+  
+           level_size = len(queue)
+           for _ in range(level_size):         
+               pos = queue.popleft()
+               for next_position in letter_keyboard_positions_map[word[next_letter_idx]]:
+                   if abs(next_position[0] - position[0]) + abs(next_position[1] - position[1]) <= jump_distance:
+                       queue.append(next_position)
+           next_letter_idx += 1
            
-           queue = deque()
-           for position in letter_keyboard_positions_map[word[0]]:
-               queue.append(position)
-      
-           next_letter_idx = 1
-           while queue:
-               if next_letter_idx == len(word):
-                   return True 
-      
-               level_size = len(queue)
-               for _ in range(level_size):         
-                   pos = queue.popleft()
-                   for next_position in letter_keyboard_positions_map[word[next_letter_idx]]:
-                       if abs(next_position[0] - position[0]) + abs(next_position[1] - position[1]) <= jump_distance:
-                           queue.append(next_position)
-               next_letter_idx += 1
-               
-           return False
-      ```
-    </details>
+       return False
+  ```
+</details>
 
 
