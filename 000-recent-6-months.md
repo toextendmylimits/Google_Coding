@@ -1,6 +1,8 @@
 # These questions appear in the past 6 months, so could appear again
 ## Graph BFS/DFS
-1. Whether a word can be typed from a keyboard  
+
+Whether a word can be typed from a keyboard  
+
   Given a 2D keyboard, and a “maximum jump distance” jump_distance, determine if a given word can be constructed using the characters in the keyboard, obeying the jump_distance. A jump can be up, down, right, or left. But NO diagonal, i.e. a diagonal jump would naturally consume 2 units of jump distance. See my answer in post https://leetcode.com/discuss/interview-question/4236648/Google-Phone-Screen/
 
 An important thing to know is whether the keyboard has duplicate letters. Maybe initially the interviewer says that the keyboard doesn't have duplicate letters but then asks to modify the solution to support keyboard having duplicate letters as a follow-up question. Solutions are provided to both scenarios.
