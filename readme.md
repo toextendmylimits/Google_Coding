@@ -43,7 +43,7 @@
           return result
       ```
     </details>
-1. [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-fores)  
+1. [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest)  
    Key observation is that if a node's parent is deleted, and the node is not deleted, then it would be part of the result. If a node is part of the result, then we also need to know its children as well.
 
    So the idea is to have a recursive function, which has two parameters, one is the node to be processed, the other is whether the node's parent is deleted, and the return value is the node after remving nodes that should be deleted. In each recursion call,  
