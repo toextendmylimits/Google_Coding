@@ -22,6 +22,7 @@
 |[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix)| Matrix | 4 | 01/12 | YES |
 |[143. Reorder List](https://leetcode.com/problems/reorder-list) | Linked List | 2 | 1/12 | YES | Find middle, reverse second half, then connect. In while loop, check second half's next not null
 |[759. Employee Free Time](https://leetcode.com/problems/employee-free-time) | 3 | Merge Intervals | 12| 01/12 | NO | Very familiar. Beware the sorting critieria
-|[57. Insert Interval](https://leetcode.com/problems/insert-interval)| 7| Merge Intervals | 12| 01/12 | NO | Relatively clear. Practice if there is time
+|[57. Insert Interval](https://leetcode.com/problems/insert-interval)| Merge Intervals | 12| 01/12 | NO | Relatively clear. Practice if there is time
+|[394. Decode String](https://leetcode.com/problems/decode-string) | Stack| 5| 01/12 | NO | Use two stacks. Save curr_num and curr_str for encoded string. TC O(maxK * N) SC O(N). Really need to memorize this.
 
 
