@@ -7,6 +7,7 @@
 |[1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest) | Tree DFS | 16| 01/12 | YES | Need to maintain whether a node is deleted and whether its parent is deleted. Practice a few more times
 |[2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii)| Tree DFS | 15 | 01/12 | YES | a. Need to sort meetings. b. Use heap for free rooms. Don't forget to heapify. c. Also use heap for time when a busy room is free again. d. use hash map to record a room's meetings
 |[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)| Binary Search | 14 | 01/12 | YES | Need to memorize
+|[56. Merge Intervals](https://leetcode.com/problems/merge-intervals) | Merge Intervals | 12| 01/12 | NO | Very familiar. Just have a quick look
 |[2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | Tree DFS | 9 | 01/12 | YES | Return count of nodes total sum in each recursion call 
 |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | Sweep Line | 11 | 01/12 | YES | Remember to sort hash map items
 |[2713. Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix)| Dynamic programming | 9 | 01/12 | YES | Use hash map to store num and its positions. Sort hash map ascendingly. Also record max sequence that can reach an item in a row or column
