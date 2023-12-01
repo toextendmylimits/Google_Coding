@@ -8,6 +8,7 @@
 |[2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii)| Tree DFS | 15 | 01/12 | YES | a. Need to sort meetings. b. Use heap for free rooms. Don't forget to heapify. c. Also use heap for time when a busy room is free again. d. use hash map to record a room's meetings
 |[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)| Binary Search | 14 | 01/12 | YES | Need to memorize
 |[2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | Tree DFS | 9 | 01/12 | YES | Return count of nodes total sum in each recursion call 
+|[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | Sweep Line | 11 | 01/12 | YES | Remember to sort hash map items
 |[2713. Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix)| Dynamic programming | 9 | 01/12 | YES | Use hash map to store num and its positions. Sort hash map ascendingly. Also record max sequence that can reach an item in a row or column
 |[366. Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree)    | Tree DFS | 6 | 01/12 | YES | Beware height starts from 1
 |[2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array) | Greedy | 6 | 01/12 | YES | Use hash map to store num and frequency. Sort hash map keys ascendingly. Beware special case 0
