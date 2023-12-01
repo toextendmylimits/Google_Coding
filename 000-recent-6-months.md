@@ -7,6 +7,7 @@
 |[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)     | Tree DFS/BFS | 4 | 01/12 | YES | Easy but beware BFS as well
 |[100. Same Tree](https://leetcode.com/problems/same-tree)     | Tree DFS/BFS | 4 | 01/12 | YES | Beware to check left against left and right against right. This is not isMirror
 |[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)     | Tree DFS/BFS | 2 | 01/12 | YES | Practice DFS for Depth and Height
+|[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix)| Matrix | 4 | 01/12 | YES |
 
 
 
