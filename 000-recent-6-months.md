@@ -21,5 +21,6 @@
 |[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)     | Tree DFS/BFS | 2 | 01/12 | YES | Practice DFS for Depth and Height
 |[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix)| Matrix | 4 | 01/12 | YES |
 |[143. Reorder List](https://leetcode.com/problems/reorder-list) | Linked List | 2 | 1/12 | YES | Find middle, reverse second half, then connect. In while loop, check second half's next not null
+|[759. Employee Free Time](https://leetcode.com/problems/employee-free-time) | 3 | Merge Intervals | 12| 01/12 | NO | Very familiar. Beware the sorting critieria
 
 
