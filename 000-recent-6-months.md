@@ -2,7 +2,7 @@
 |Question                 | Category        | Frequency as on 1 Dec | Dates           | Practice Again | Note          |
 | ----------------------  | -------------   | ----------------------| --------------- | -------------  | ------------- | 
 |[359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)   | Hashmap| 23 | 01/12 | YES | Practice approach with hash set plus queue
-|[2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs) | Graph BFS/DFS| 22 | 01/12 | YES | Should memorize both DFS and BFS. Never use continue in a if not inside loop. Often should use return in a function
+|[2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs) | Graph BFS/DFS| 22 | 01/12 | YES | Should memorize both DFS and BFS. Never use continue in a if not inside loop. Often should use return in a function. TC O(N^3), SC O(N^2)
 |[2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries)    | Tree DFS | 20 | 01/12 | YES | Very difficult. Practice a few more times
 |[1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest) | Tree DFS | 16| 01/12 | YES | Need to maintain whether a node is deleted and whether its parent is deleted. Practice a few more times
 |[2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii)| Tree DFS | 15 | 01/12 | YES | a. Need to sort meetings. b. Use heap for free rooms. Don't forget to heapify. c. Also use heap for time when a busy room is free again. d. use hash map to record a room's meetings
