@@ -24,5 +24,8 @@
 |[759. Employee Free Time](https://leetcode.com/problems/employee-free-time) | 3 | Merge Intervals | 12| 01/12 | NO | Very familiar. Beware the sorting critieria
 |[57. Insert Interval](https://leetcode.com/problems/insert-interval)| Merge Intervals | 12| 01/12 | NO | Relatively clear. Practice if there is time
 |[394. Decode String](https://leetcode.com/problems/decode-string) | Stack| 5| 01/12 | YES | Use two stacks. Save curr_num and curr_str for encoded string. TC O(maxK * N) SC O(N). Really need to memorize this.
+|[246. Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number) | Recursion | | 2/12 |
+|[247. Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii) | Recursion | | 2/12 |
+|[248. Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii) | Recursion | | 2/12 |
 
 
