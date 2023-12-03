@@ -23,7 +23,7 @@
 |[143. Reorder List](https://leetcode.com/problems/reorder-list) | Linked List | 2 | 1/12 | YES | Find middle, reverse second half, then connect. In while loop, check second half's next not null
 |[759. Employee Free Time](https://leetcode.com/problems/employee-free-time) | 3 | Merge Intervals | 12| 01/12 | NO | Very familiar. Beware the sorting critieria
 |[57. Insert Interval](https://leetcode.com/problems/insert-interval)| Merge Intervals | 12| 01/12 | NO | Relatively clear. Practice if there is time
-|[394. Decode String](https://leetcode.com/problems/decode-string) | Stack| 5| 01/12 | YES | Use two stacks. Save curr_num and curr_str for encoded string. TC O(maxK * N) SC O(N). Really need to memorize this.
+|[394. Decode String](https://leetcode.com/problems/decode-string) | Stack| 5| 01/12 | YES | Use two stacks. Save curr_num and curr_str for encoded string. TC O(maxK ^ count K * N) SC O(N). Really need to memorize this.
 |[246. Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number) | Recursion | | 2/12 |
 |[247. Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii) | Recursion | | 2/12 |
 |[248. Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii) | Recursion | | 2/12 |
