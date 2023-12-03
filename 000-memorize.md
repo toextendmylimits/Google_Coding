@@ -8,6 +8,7 @@
 |[259. 3 Sum Smaller](https://leetcode.com/problems/3sum-smaller)| 25/11 | YES | Sort. Update result += right - left
 [16. 3 Sum Closet](https://leetcode.com/problems/3sum-closest)  | 25/11 | YES | Not 100% clear, need to save diff = curr_sum - target
 |[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | 25/11 | YES | Don't forget to check curr word again after end of loop. 
+|[285. Move Zeroes](https://leetcode.com/problems/move-zeroes)  | 25/11 | YES | Find first zero idx, if not exist, return. Then swap zero with non-zero element and increase zero index
 
 ## Tree DFS/BFS
 |Question                 | Dates           | Practice Again | Note          |
