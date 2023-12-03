@@ -14,6 +14,7 @@
 ## Tree DFS/BFS
 |Question                 | Dates           | Practice Again | Note          |
 | ----------------------  |  ---------------| -------------  | ------------- | 
+|[109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | 25/11 | YES | Simulate inorder traversal. Difficult, need to not only code it but more importantly to explain it clearly
 |[112. Path Sum](https://leetcode.com/problems/path-sum) | 25/11 | YES | Practice BFS more
 |[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | 25/11 | YES | Need even more clear
 |[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)  | 25/11 | YES | Calculate height recursively. Practice more
