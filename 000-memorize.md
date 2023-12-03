@@ -15,6 +15,7 @@
 |Question                 | Dates           | Practice Again | Note          |
 | ----------------------  |  ---------------| -------------  | ------------- | 
 |[112. Path Sum](https://leetcode.com/problems/path-sum) | 25/11 | YES | Practice BFS more
+|[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | 25/11 | YES | Need even more clear
 |[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)  | 25/11 | YES | Calculate height recursively. Practice more
 |[1522. Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree)  | 25/11 | YES | Tricky, need to two largest height in each step
 |[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | 25/11 | YES | Need to memorize
