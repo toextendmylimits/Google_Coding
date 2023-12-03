@@ -1,4 +1,11 @@
 # Important ones to memorize
+
+## Two Pointers 
+| ----------------------  |  ---------------| -------------  | ------------- | 
+|[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)  | 25/11 | YES | Calculate height recursively. Practice more
+| 80. Remove Duplicates from Sorted Array II
+
+
 |Question                 | Dates           | Practice Again | Note          |
 | ----------------------  |  ---------------| -------------  | ------------- | 
 |[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)  | 25/11 | YES | Calculate height recursively. Practice more
