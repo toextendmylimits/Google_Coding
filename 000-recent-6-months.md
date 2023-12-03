@@ -19,7 +19,7 @@
 |[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)     | Tree DFS/BFS | 4 | 01/12 | YES | Easy but beware BFS as well
 |[100. Same Tree](https://leetcode.com/problems/same-tree)     | Tree DFS/BFS | 4 | 01/12 | YES | Beware to check left against left and right against right. This is not isMirror
 |[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)     | Tree DFS/BFS | 2 | 01/12 | YES | Practice DFS for Depth and Height
-|[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix)| Matrix | 4 | 01/12 | YES |
+|[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix)| Matrix | 4 | 01/12 | YES | Beware step is -1 when traversing from right to left and from bottom to top
 |[143. Reorder List](https://leetcode.com/problems/reorder-list) | Linked List | 2 | 1/12 | YES | Find middle, reverse second half, then connect. In while loop, check second half's next not null
 |[759. Employee Free Time](https://leetcode.com/problems/employee-free-time) | 3 | Merge Intervals | 12| 01/12 | NO | Very familiar. Beware the sorting critieria
 |[57. Insert Interval](https://leetcode.com/problems/insert-interval)| Merge Intervals | 12| 01/12 | NO | Relatively clear. Practice if there is time
