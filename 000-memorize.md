@@ -4,6 +4,7 @@
 |Question                 | Dates           | Practice Again | Note          |
 | ----------------------  |  ---------------| -------------  | ------------- | 
 |[80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | 25/11 | YES | Still difficult, practice two approaches
+|[1099 two Sum less than k](https://leetcode.com/problems/two-sum-less-than-k) | 2511 | YES | Remember to sort, and also update with result = max(result, total). result = total wouldn't necessairly work
 
 ## Tree DFS/BFS
 |Question                 | Dates           | Practice Again | Note          |
