@@ -7,6 +7,7 @@
 |[1099 two Sum less than k](https://leetcode.com/problems/two-sum-less-than-k) | 2511 | YES | Remember to sort, and also update with result = max(result, total). result = total wouldn't necessairly
 |[259. 3 Sum Smaller](https://leetcode.com/problems/3sum-smaller)| 25/11 | YES | Sort. Update result += right - left
 [16. 3 Sum Closet](https://leetcode.com/problems/3sum-closest)  | 25/11 | YES | Not 100% clear, need to save diff = curr_sum - target
+|[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | 25/11 | YES | Don't forget to check curr word again after end of loop. 
 
 ## Tree DFS/BFS
 |Question                 | Dates           | Practice Again | Note          |
