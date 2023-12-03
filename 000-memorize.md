@@ -2,10 +2,9 @@
 
 ## Two Pointers 
 | ----------------------  |  ---------------| -------------  | ------------- | 
-|[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)  | 25/11 | YES | Calculate height recursively. Practice more
-| 80. Remove Duplicates from Sorted Array II
+|[80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | 25/11 | YES | Still difficult, practice two approaches
 
-
+## Tree DFS/BFS
 |Question                 | Dates           | Practice Again | Note          |
 | ----------------------  |  ---------------| -------------  | ------------- | 
 |[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)  | 25/11 | YES | Calculate height recursively. Practice more
