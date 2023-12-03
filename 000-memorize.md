@@ -1,6 +1,7 @@
 # Important ones to memorize
 
 ## Two Pointers 
+|Question                 | Dates           | Practice Again | Note          |
 | ----------------------  |  ---------------| -------------  | ------------- | 
 |[80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | 25/11 | YES | Still difficult, practice two approaches
 
