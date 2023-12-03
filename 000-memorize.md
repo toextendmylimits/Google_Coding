@@ -9,6 +9,7 @@
 [16. 3 Sum Closet](https://leetcode.com/problems/3sum-closest)  | 25/11 | YES | Not 100% clear, need to save diff = curr_sum - target
 |[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | 25/11 | YES | Don't forget to check curr word again after end of loop. 
 |[285. Move Zeroes](https://leetcode.com/problems/move-zeroes)  | 25/11 | YES | Find first zero idx, if not exist, return. Then swap zero with non-zero element and increase zero index
+|[67. Add Binary](https://leetcode.com/problems/add-binary)| 25/11 | YES | Beware to reverse if using array to stor result, and use str() to convert digit of array |
 
 ## Tree DFS/BFS
 |Question                 | Dates           | Practice Again | Note          |
